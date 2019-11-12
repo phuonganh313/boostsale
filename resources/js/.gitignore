@@ -1,0 +1,13 @@
+node_modules
+*.xml
+nbproject/
+sales.js
+src/be/hspointofsalepro/views/css/apps/sales.css
+.DS_Store
+
+src/fe/sales/.idea/sales.iml
+src/be/hspointofsalepro/views/css/apps/manage.css
+src/be/hspointofsalepro/views/js/apps/manage.js
+src/fe/manage/build/manage.js
+src/fe/sales/src/package-lock.json
+src/fe/manage/src/package-lock.json
